@@ -1,5 +1,7 @@
 my_string = input("Сколько Вам лет: ")
 print(my_string)
+my_string = ("Сколько Вам лет: ")
+print(len(my_string))
 print('Сколько Вам лет:'.upper())
 print('Сколько Вам лет:'.lower())
 print('Сколько Вам лет:'.replace(' ', ''))
