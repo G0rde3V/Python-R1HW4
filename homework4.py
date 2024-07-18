@@ -1,0 +1,8 @@
+my_string = input("Сколько Вам лет: ")
+print(my_string)
+print('Сколько Вам лет:'.upper())
+print('Сколько Вам лет:'.lower())
+print('Сколько Вам лет:'.replace(' ', ''))
+my_string = ("Сколько Вам лет: ")
+print(my_string[0])
+print(my_string[-1])
